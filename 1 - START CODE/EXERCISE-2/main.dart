@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'ui/screens/profile.dart';
+import '../../ex2/lib/ui/screens/profile.dart';
  
 void main() {
   runApp(const MaterialApp(
